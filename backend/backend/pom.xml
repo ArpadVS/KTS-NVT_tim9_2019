@@ -50,7 +50,7 @@
 			<groupId>mysql</groupId>
 			<artifactId>mysql-connector-java</artifactId>
 			<scope>runtime</scope>
-			<version>8.0.15</version><!--$NO-MVN-MAN-VER$ -->
+			<version>8.0.16</version><!--$NO-MVN-MAN-VER$ -->
 		</dependency>
 
 		<!-- https://mvnrepository.com/artifact/junit/junit <dependency> <groupId>junit</groupId> 
